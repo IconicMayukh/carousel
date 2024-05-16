@@ -196,7 +196,7 @@
   
   .front{
     margin: 0;
-    height: 100%;
+    height: 100vh;
     width: 100%;
     position: relative;
     background-size: cover;
@@ -207,10 +207,10 @@
   }
   .front-content{
     display: block;
-    padding: 20px; 
+    padding: 30px; 
     width: 70%;
     position: absolute;
-    bottom: 10px;
+    bottom: 20px;
     background-color: transparent;
     border-radius: 15px;
     border: none;
